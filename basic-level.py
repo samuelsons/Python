@@ -2,4 +2,5 @@
 # sum = 1 + 9
 # print(sum)
 
-print("")
+from datetime import date
+print(date.today())
