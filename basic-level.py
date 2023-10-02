@@ -2,5 +2,6 @@
 # sum = 1 + 9
 # print(sum)
 
-from datetime import date
-print(date.today())
+# Builtin function operations
+from datetime import datetime
+print(datetime())
