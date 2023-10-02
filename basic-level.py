@@ -1,7 +1,7 @@
-# Python basic operations.
+# Python basic math operations.
 # sum = 1 + 9
 # print(sum)
 
 # Builtin function operations
-from datetime import datetime
-print(datetime())
+from datetime import datetime                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+print("Today's date is: ", datetime())
