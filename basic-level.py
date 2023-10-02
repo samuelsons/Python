@@ -1,1 +1,2 @@
-print("Hello! Samuelsons here.")
+sum(1 + 9)
+print(sum)
