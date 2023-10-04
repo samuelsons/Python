@@ -15,3 +15,7 @@ import sys
 # print(sys.argv[0]) # program name
 # print(sys.argv[1]) # first arg 
 
+# Capture user input
+print("welcome to the greeter prgoram")
+name = input("Enter your name: ")
+print("Greetings " + name)
