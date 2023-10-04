@@ -5,5 +5,7 @@
 # Builtin function operations
 from datetime import date                      
 
-# convert date to string.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+# convert date to string.
 print("Today's date is: " + str(date.today()))
+
+# 
