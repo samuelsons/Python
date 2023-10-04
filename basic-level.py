@@ -6,6 +6,12 @@
 from datetime import date                      
 
 # convert date to string.
-print("Today's date is: " + str(date.today()))
+# print("Today's date is: " + str(date.today()))
 
-# 
+# Command-line arugments.
+import sys
+
+# print(sys.argv) 
+# print(sys.argv[0]) # program name
+# print(sys.argv[1]) # first arg 
+
