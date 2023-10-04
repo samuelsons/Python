@@ -16,6 +16,12 @@ import sys
 # print(sys.argv[1]) # first arg 
 
 # Capture user input
-print("welcome to the greeter prgoram")
-name = input("Enter your name: ")
-print("Greetings " + name)
+# print("welcome to the greeter prgoram")
+# name = input("Enter your name: ")
+# print("Greetings " + name)
+
+# Working with numbers
+print("calculator progrram")
+first_number = input("First number: ")
+second_number = input("Second number: ")
+print("The result of the calculated number is: ", int(first_number) + int(second_number))
