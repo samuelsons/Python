@@ -33,8 +33,11 @@ import sys
 
 
 # Re-factor code to allow program user input no. of parsecs for conversion.
-print("::-- Parsecs to Light years converted pogram.")
-parsecs_input = input("Enter the number of parsecs: ")
-parsecs = int(parsecs_input)
-lightyears = parsecs * 3.26
-print(str(parsecs) + " parsecs expressed in lightyears equals " + str(lightyears) + " lightyears")
+# print("::-- Parsecs to Light years converted pogram.")
+# parsecs_input = input("Enter the number of parsecs: ")
+# parsecs = int(parsecs_input)
+# lightyears = parsecs * 3.26
+# print(str(parsecs) + " parsecs expressed in lightyears equals " + str(lightyears) + " lightyears")
+
+#
+
