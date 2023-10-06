@@ -41,4 +41,10 @@ import sys
 
 # Virtual Environments
 
-
+# Conditional Logic
+a = 34
+b = 12
+if a >= 3:
+    print(a)
+else:
+    print(b)
