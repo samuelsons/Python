@@ -62,8 +62,9 @@ import sys
 # Conditional statement tests.
 # In the cell below, add a variable named object_size and set it to 10 to represent 10m3. Then add an if statement to test if object_size is greater than 5. If it is, display a message saying We need to keep an eye on this object. Otherwise, display a message saying Object poses no threat.
 object_size = 10
-if object_size >= 5:
-    print("We need to keep an eye on this obect")
+proximity = 9000
+if object_size > 5 and proximity < 1000:
+    print('Evasive maneuvers required')
 else:
-    print("Object poses no threat")
+    print('Object poses no threat')
     
