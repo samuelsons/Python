@@ -74,3 +74,5 @@ import sys
 # print(fact)
 
 # Basic Operations
+my_first_variable = 1
+print(type(my_first_variable))
